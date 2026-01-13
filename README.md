@@ -18,9 +18,6 @@
 ✨ Passionate about turning data into actionable insights and solving problems in **data-driven environments**.  
 ✨ Actively seeking a full-time role to apply analytical skills, technical expertise, and problem-solving mindset.  
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://JiaJun08.github.io/)
-
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
@@ -34,8 +31,11 @@
   <img src="https://img.shields.io/badge/Tableau-Intermediate-4479A1?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
-#Programming & Automation
+#### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-4479A1?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Intermediate-4479A1?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
+
+## 📊 Languages
+
